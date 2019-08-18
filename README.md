@@ -1,2 +1,2 @@
 # easy-css
-A easy way to write less css
+A css package to help you write less css
